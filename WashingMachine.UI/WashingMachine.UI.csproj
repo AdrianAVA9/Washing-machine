@@ -75,5 +75,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WashingMachine.Entity\WashingMachine.Entity.csproj">
+      <Project>{ae30ad52-0009-4983-9ac9-b89950edb1b5}</Project>
+      <Name>WashingMachine.Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
