@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WashingMachine.UI")]
+[assembly: AssemblyTitle("WashingMachine.IU")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("WashingMachine.UI")]
+[assembly: AssemblyProduct("WashingMachine.IU")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("47c397bc-b05d-4045-8cc4-cc032b6d9d2a")]
+[assembly: Guid("3aa899dd-b493-4d87-b6eb-5323c4e25afc")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace WashingMachine.UI.Properties
+namespace WashingMachine.IU.Properties
 {
 
 
